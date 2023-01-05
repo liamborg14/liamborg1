@@ -1,0 +1,134 @@
+@media screen and (max-width: 320px) {
+    
+    h1 {
+        color: white;
+    }
+    body {
+        background: black;
+    }
+
+    
+    img {
+        display: block;
+        
+    }
+
+    footer {
+        display: none;
+    }}
+
+@media screen and (max-width: 768px) {
+    h1 {
+        color: white;
+    }
+    body {
+        background: black;
+    }
+    
+    
+    img {
+        display: block;
+        
+    }
+
+    footer {
+        display: none;
+    }}
+
+body, header {
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+    color: black;}
+
+
+    h1 {
+        text-align: center;
+        font-size: 42px;
+    }
+
+    nav {
+        background-color: #FDFFAD;
+        text-align: center;
+        padding: 10px;
+        font-size: 24px;
+        margin-bottom: 10px;     
+        color:#4687b7;   
+    }
+
+
+#img1 {
+    height: 350px; 
+    margin-top: 20px;
+    padding: 10px;
+
+}
+
+#img2 {
+    height: 350px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#img3 {
+    height: 350px;  
+    margin-top: 20px;
+    padding: 10px;
+}
+
+#img4 {
+    height: 350px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 530px;
+}
+
+#img5 {
+    height: 350px; 
+    margin-top: 20px;
+    padding: 10px;
+    width: 590px;
+}
+
+
+#img6 {
+    height: 350px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 590px;
+}
+
+
+#img7 {
+    height: 350px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 535px;
+}
+
+
+#img8 {
+    height: 350px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 590px;
+}
+
+
+#img9 {
+    height: 350px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 590px;
+}
+footer {
+
+    background-color: #FDFFAD;
+    text-align: center;
+    padding: 10px;
+    float: center;
+    
+}
+
+a:hover {
+    text-decoration: underline;
+}
